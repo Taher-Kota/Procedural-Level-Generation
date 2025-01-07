@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Road
+  - TopFarHouse
+  - BottomNearGrass
+  - Trex
+  - BottomFarLand1
+  - Obstacle
+  - BottomFarLand3
+  - BottomFarLand5
+  - BigTree
+  - TopFarTree
+  - BottomFarLand4
+  - Star
+  - TopFarGrass
+  - BottomFarLand2
+  - SmallTree
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3049247025
+    locked: 0
+  - name: Move
+    uniqueID: 1912535101
+    locked: 0
+  - name: Player
+    uniqueID: 379232099
+    locked: 0
+  - name: UI
+    uniqueID: 443238349
+    locked: 0
+  - name: Top far ground
+    uniqueID: 389268985
+    locked: 0
+  - name: Top near ground
+    uniqueID: 753788461
+    locked: 0
+  - name: Tree top
+    uniqueID: 1819289627
+    locked: 0
+  - name: Road
+    uniqueID: 1777388941
+    locked: 0
+  - name: Obstacle
+    uniqueID: 1327818019
+    locked: 0
+  - name: Main
+    uniqueID: 4069133305
+    locked: 0
+  - name: Bottom near ground
+    uniqueID: 1247109911
+    locked: 0
+  - name: Bottom far ground F1
+    uniqueID: 3984331893
+    locked: 0
+  - name: Bottom far ground F2
+    uniqueID: 885293913
+    locked: 0
+  - name: Bottom far ground F3
+    uniqueID: 800795111
+    locked: 0
+  - name: Bottom far ground F4
+    uniqueID: 2528716503
+    locked: 0
+  - name: Bottom far ground F5
+    uniqueID: 4137889173
+    locked: 0
+  - name: Tree bottom
+    uniqueID: 2439501445
+    locked: 0
+  - name: UI2
+    uniqueID: 2322161121
+    locked: 0
