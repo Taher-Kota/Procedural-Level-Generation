@@ -62,9 +62,7 @@ To run this project on your local machine:
 
     Copy code
 
-    `git clone <repository-url>`
-
-    Replace `<repository-url>` with the actual link to your project repository.
+    `git clone https://github.com/Taher-Kota/Procedural-Level-Generation.git`
 
     Alternatively, download the ZIP file of the repository and extract it.
 
